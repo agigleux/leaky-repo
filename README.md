@@ -8,7 +8,6 @@
 * [Contact](#Contact)
 
 # FAQ
-# FAQ
 ## What is this?
 This is a repo full of mistakes. I will include several of the secrets I've seen commonly leaking from real projects. It will be useful for testing scanning tools such as [github-dorks](https://github.com/techgaun/github-dorks) and [truffleHog](https://github.com/dxa4481/truffleHog).
 
